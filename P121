@@ -1,9 +1,8 @@
 DE,tes100
-PS,8040
+PS,8000
 PN,12100
 SC,0000
-RE,0
-FL,200,101,120,251,8ff,8ff
+RE,0,Teletext on 4 %%# %%b%dC%H:%M:%S
 OL,1,TppppQ    S    T    Rp Q   Wppp  p  p p 
 OL,2,T###QppppSppppTppppR QpppW## p/p op? 
 OL,3,T ppQ##S##T##R Q#W|    "! 
@@ -26,3 +25,4 @@ OL,20, G-Games......P160  NationalLotto..P555
 OL,21, YouTube......P200  TransitStatus..P600 
 OL,22, I Feel Lucky.P180  Spotify........P800 
 OL,24,AYouTube    BG-Travel   CNEWS  DNHS-111 
+FL,200,101,120,251,8ff,8ff
